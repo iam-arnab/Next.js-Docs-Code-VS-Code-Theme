@@ -1,10 +1,14 @@
 {
-  "name": "next-js-docs-theme",
-  "displayName": "Next.js Docs Theme",
+  "name": "next-js-docs-code-theme",
+  "displayName": "Next.js Docs Code Theme",
   "description": "The Beautiful theme used in code blocks of Next.js Docs by Vercel",
   "version": "0.0.1",
   "icon": "images/icon.png",
-  "publisher": "Arnab Chakraborty",
+  "publisher": "arnab-chakraborty",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iam-arnab/Next.js-Docs-Code-VS-Code-Theme.git.git"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -14,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Next.js Docs Theme",
+        "label": "Next.js Docs Code Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Next.js Docs Theme-color-theme.json"
+        "path": "./themes/Next.js Docs Code Theme-color-theme.json"
       }
     ]
   }
