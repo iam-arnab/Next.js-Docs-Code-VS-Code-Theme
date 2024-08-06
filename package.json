@@ -2,7 +2,7 @@
   "name": "next-js-docs-code-theme",
   "displayName": "Next.js Docs Code Theme",
   "description": "The Beautiful theme used in code blocks of Next.js Docs by Vercel",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "icon": "images/icon.png",
   "publisher": "arnab-chakraborty",
   "repository": {
