@@ -362,7 +362,7 @@
         //"editorActiveLineNumber.foreground": "#c6c6c6",
         "editorBracketHighlight.foreground1": "#dce3ea",
         "editorBracketHighlight.foreground2": "#dce3ea",
-        "editorBracketHighlight.foreground3": "#dce3ea",
+        "editorBracketHighlight.foreground3": "#dce3ea"
         //"editorBracketHighlight.foreground4": "#00000000",
         //"editorBracketHighlight.foreground5": "#00000000",
         //"editorBracketHighlight.foreground6": "#00000000",
@@ -816,10 +816,6 @@
             "settings": {
                 "foreground": "#43AAF9"
             }
-        }, {
-          "scope": [
-            ""
-          ]  
         },
         {
             "scope": [
@@ -849,7 +845,7 @@
                 "keyword.operator.expression"
             ],
             "settings": {
-                "foreground": "#43AAF9"
+                "foreground": "#f7017b"
             }
         },
         {
@@ -1088,7 +1084,7 @@
                 "entity.name.tag.block.any.html"
             ],
             "settings": {
-                "foreground": "#43AAF9"
+                "foreground": "#2ed07f"
             }
         },
         {
