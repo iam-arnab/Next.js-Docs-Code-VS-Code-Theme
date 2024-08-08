@@ -814,7 +814,8 @@
         {
             "scope": "entity.name.class",
             "settings": {
-                "foreground": "#43AAF9"
+                "foreground": "#43AAF9",
+                "fontStyle": "italic"
             }
         },
         {
@@ -828,7 +829,7 @@
             ],
             "settings": {
                 "foreground": "#d200ee",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -851,7 +852,7 @@
         {
             "scope": "variable.parameter",
             "settings": {
-                "foreground": "#DCE3EA"
+                "foreground": "#e9eadc"
             }
         },
         {
@@ -1093,7 +1094,8 @@
                 "support.class.component.jsx"
             ],
             "settings": {
-                "foreground": "#43AAF9"
+                "foreground": "#43AAF9",
+                "fontStyle": "italic"
             }
         },
         {
