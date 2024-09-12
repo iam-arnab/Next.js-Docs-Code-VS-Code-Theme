@@ -1243,6 +1243,13 @@
             }
         },
         {
+            "scope": ["markup.bold"],
+            "settings": {
+                "foreground": "#2ed07f",
+                "fontStyle": "bold"
+            }
+        },
+        {
             "scope": [
                 "markup..markdown",
                 "string.other.strong.asterisk.mdx",
